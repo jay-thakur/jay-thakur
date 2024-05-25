@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jay Prakash Thakur
-- 👀 I’m a Full Stack Software Developer & Researcher with interest in Data Science (6+ years of professional work experience).
-- 🌱 I’m currently working on Deep Learning Projects.
-- 💞️ I’m looking to collaborate on Data Science Projects
-- 📫 You can reach me at jayprakashthakursnr@gmail.com 
+- 👀 I’m a Software Developer & Researcher with extensive experience in Data Science / Machine Learning / AI / LLM (8+ years of professional work experience).
+- 🌱 I’m currently working on Machine Learning Projects.
+- 💞️ I’m looking to collaborate on LLM / AGI Projects.
+- 📫 You can reach me out at jayprakashthakursnr@gmail.com 
 
 <!---
 jay-thakur/jay-thakur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
