@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jay Prakash Thakur
 - 👀 I’m a Software Developer & Researcher with extensive experience in Data Science / Machine Learning / AI / LLM (8+ years of professional work experience).
 - 🌱 I’m currently working on Machine Learning Projects.
-- 💞️ I’m looking to collaborate on LLM / AGI Projects.
+- 💞️ I’m open to collaborate on AGI/ASI Projects.
 - 📫 You can reach me out at jayprakashthakursnr@gmail.com 
 
 <!---
